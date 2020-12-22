@@ -1,0 +1,7 @@
+programa teste;
+var x, y, z: inteiro;
+var r: booleano;
+inicio
+    x := 3 + 1336 * 8;
+    escreva(x);
+fim.
